@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.12950000123683,
+          -8.606216880645102
+        ]
+      },
+      "properties": {
+        "No_": 0,
+        "Nama_DAS": "Unus (Berenyok)",
+        "Nama_HW": "B Unus",
+        "X": 404215.105434,
+        "Y": 9048574.03768,
+        "Status": "Instream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.1155166680393,
+          -8.603283547240204
+        ]
+      },
+      "properties": {
+        "No_": 0,
+        "Nama_DAS": "Unus (Berenyok)",
+        "Nama_HW": "B Pesongoran",
+        "X": 402675.592794,
+        "Y": 9048894.8424,
+        "Status": "Instream"
+      }
+    }
+  ]
+}
