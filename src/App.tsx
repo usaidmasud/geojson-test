@@ -1,5 +1,4 @@
 import MapPosition from './components/MapPosition'
-import MyMap from './components/MyMap'
 import "leaflet/dist/leaflet.css";
 function App() {
   return (
